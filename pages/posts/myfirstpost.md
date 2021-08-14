@@ -7,8 +7,9 @@ author: You
 ---
 
 # my recommendations
-Here lies a collection of products that I thoroughly enjoy using 👇🏾
-Hopefully I keep this updated 
+here lies a collection of products that I thoroughly enjoy using 👇🏾
+
+hopefully I keep this updated 
 
 
 #### apps
