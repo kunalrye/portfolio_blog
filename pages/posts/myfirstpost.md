@@ -1,5 +1,5 @@
 ---
-title: Recommendations
+title: recommendations
 date: 2021/8/14
 description: Here are a bunch of products I love 
 tag: my stuff
