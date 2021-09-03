@@ -236,3 +236,105 @@ We've discussed two forms of pre-rendering for Next.js.
 
 - **Static Generation (Recommended):** The HTML is generated at **build time** and will be reused on each request. To make a page use Static Generation, either export the page component, or export `getStaticProps` (and `getStaticPaths` if necessary). It's great for pages that can be pre-rendered ahead of a user's request. You can also use it with Client-side Rendering to bring in additional data.
 - **Server-side Rendering:** The HTML is generated on **each request**. To make a page use Server-side Rendering, export `getServerSideProps`. Because Server-side Rendering results in slower performance than Static Generation, use this only if absolutely necessary.
+
+
+
+---
+title: Markdown Examples
+date: 2021/3/19
+description: View examples of all possible Markdown options.
+tag: web development
+author: You
+---
+
+# Markdown Examples
+
+## h2 Heading
+
+### h3 Heading
+
+#### h4 Heading
+
+##### h5 Heading
+
+###### h6 Heading
+
+## Emphasis
+
+**This is bold text**
+
+_This is italic text_
+
+~~Strikethrough~~
+
+## Blockquotes
+
+> Develop. Preview. Ship. – Vercel
+
+## Lists
+
+Unordered
+
+- Lorem ipsum dolor sit amet
+- Consectetur adipiscing elit
+- Integer molestie lorem at massa
+
+Ordered
+
+1. Lorem ipsum dolor sit amet
+2. Consectetur adipiscing elit
+3. Integer molestie lorem at massa
+
+## Code
+
+Inline `code`
+
+```
+export default function Nextra({ Component, pageProps }) {
+  return (
+    <>
+      <Head>
+        <link
+          rel="alternate"
+          type="application/rss+xml"
+          title="RSS"
+          href="/feed.xml"
+        />
+        <link
+          rel="preload"
+          href="/fonts/Inter-roman.latin.var.woff2"
+          as="font"
+          type="font/woff2"
+          crossOrigin="anonymous"
+        />
+      </Head>
+      <Component {...pageProps} />
+    </>
+  )
+}
+```
+
+## Tables
+
+| **Option** | **Description**                                                                                                             |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------- |
+| First      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+| Second     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+| Third      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+
+## Links
+
+- [Next.js](https://nextjs.org)
+- [Nextra](https://nextra.vercel.app/)
+- [Vercel](http://vercel.com)
+
+### Footnotes
+
+- Footnote [^1].
+- Footnote [^2].
+
+[^1]: Footnote **can have markup**
+
+    and multiple paragraphs.
+
+[^2]: Footnote text.
