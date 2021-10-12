@@ -36,6 +36,4 @@ yarn-error.log*
 public/feed.xml
 
 # writing posts
-
-pages/posts/writing.md
-pages/posts/writing2.md
+pages/posts/archive.md
