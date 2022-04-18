@@ -24,7 +24,7 @@ I use these rough estimates to get to a calorie count that is satiating for me. 
 - Ranch / Oil / Avacado based dressing (ideally some fat content)
 - Salt / Black Pepper / Garlic Salt
 
-## Steps
+## steps
 1. Preheat the oven to 450 degrees
 2. Rinse and peel sweet potatoes. Cut each potato length-wise twice then chop each remaining piece to around 1/2 inch thick pieces
 3. Take a sheet pan and cover with parchment paper or foil and lightly spray with oil (note: if you season and toss the sweet potatoes in oil prior this can be skipped). 
@@ -36,7 +36,7 @@ I use these rough estimates to get to a calorie count that is satiating for me. 
 9. While you wait for the sweet potatoes to complete, the quinoa can be microwaved. 
 10. Using a large bowl, place the mixed greens at the bottom, top with chicken, quinoa, and sweet potatoes. Add hot sauce and dressing as desired and mix. 
 
-## Additional Mix Ins
+## additional mix ins
 - Fajita bell peppers and onions work great with this recipe
 - Sweet potatoes can be swapped for Yukon golds
 - Harissa paste is a good swap for hot sauce if you want to go a different route with the theme
