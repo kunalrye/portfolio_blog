@@ -1,6 +1,6 @@
 ---
 title: hacked sweetgreen
-date: 2022/04/17
+date: 2022-04-17
 description: I really like sweetgreen
 tag: recipes
 author: You

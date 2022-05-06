@@ -1,6 +1,6 @@
 ---
 title: low(er) calorie pizza
-date: 2022/04/17
+date: 2022-04-17
 description: 🍕🍕🍕
 tag: recipes
 author: You

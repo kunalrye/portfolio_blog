@@ -1,6 +1,6 @@
 ---
 title: "anabolic" pie
-date: 2022/04/17
+date: 2022-04-17
 description: pie is great
 tag: recipes
 author: You
