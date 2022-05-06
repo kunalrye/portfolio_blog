@@ -18,7 +18,5 @@ hopefully I keep this updated
 
 - **Winno**: During the 2020 election, I realized how painful it was to stay on top of the news. There were too many sources, too much overlap, and a lot of noise to filter through. I was looking at Twitter, Reddit, NY Times, WSJ, and cable news, but I still never felt like I had a good grasp of the timeline of events or any sense of a single news story. Winno lets me see fact-checked stories in a timeline format so I can see what happened earlier for a specific topic, have the full timeline of events easily available for me, and the sources for each headline. I stopped checking Reddit, Twitter, and news apps for headlines after downloading the app. 
 
-#### clothing
 
-- **Ten Thousand Shorts**: I used to love Lululemon for workout shorts. I have their pacebreakers, surge shorts, and THE shorts. I liked the material on the surge shorts but disliked the lack of pockets and how open the leg openings were, although I understand they were designed for running. Ten Thousand shorts are made out of material quite similar to the surge shorts, are super breathable, and seem to not stink after multiple workouts. I have their interval and session shorts and they have both quickly become my favorites. 
 
